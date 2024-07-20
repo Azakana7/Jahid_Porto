@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*! FONT IMPORT */
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('C:/Users/USER/Desktop/Jahid_Porto/Fonts/Graphik-Regular.ttf') format('woff2'),
+         url('C:/Users/USER/Desktop/Jahid_Porto/Fonts/Graphik-Regular.ttf') format('woff'),
+         url('C:/Users/USER/Desktop/Jahid_Porto/Fonts/Graphik-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Graphik';
+    src: url('C:/Users/USER/Desktop/Jahid_Porto/Fonts/Graphik-Regular.ttf') format('woff2'),
+         url('C:/Users/USER/Desktop/Jahid_Porto/Fonts/Graphik-Regular.ttf') format('woff'),
+         url('C:/Users/USER/Desktop/Jahid_Porto/Fonts/Graphik-Regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+/*! FONT IMPORT  */
+
+/*? Main! */
+
+h1 {
+    font-family: 'Graphik';
+    margin-left: 85px;
+    margin-top: 20px;
+}
